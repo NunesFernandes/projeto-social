@@ -23,6 +23,16 @@ main {
     height: 100vh;
 }
 
+iframe#tela {
+    position: relative;
+    top: 80px;
+    left: 21px;
+    width: 268px;
+    height: 480px;
+    background-size: cover;
+
+}
+
 section#telefone {
     position:absolute;
     top: 50%;
